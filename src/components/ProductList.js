@@ -38,9 +38,7 @@ const ProductList = () => {
    if(products){
   return (
     <div>
-      {/* <h1>ProductList</h1> */}
-      {/* {isLoading && <h1>Loading...</h1>}
-      {error && <h1>Error:{error}</h1>} */}
+     
 
        <ProductComponent/>  
     </div>
